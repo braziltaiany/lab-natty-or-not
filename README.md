@@ -23,26 +23,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este repositório foi criado durante o Bootcamp promovido pelo Santander na DIO. O projeto tem como objetivo a criação de um artigo digital utilizando ferramentas avançadas de Inteligência Artificial.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Conteúdo gerado via ChatGPT
+- Imagens geradas via Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei os prompts  com as ferramentas recomendadas para criar o conteúdo. Editei o banner e estruture o artigo em um software de edição de documentos, como PowerPoint ou Canva.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Projeto](https://github.com/braziltaiany/prompts-como-criar-seu-artigo)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
